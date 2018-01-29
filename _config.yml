@@ -1,0 +1,16 @@
+# Dependencies
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            'Roxana Geambasu'
+tagline:          'Associate Professor of Computer Science at Columbia University <br/>(first-name@cs.columbia.edu)'
+description:      ''
+url:              http://roxanageambasu.github.io/
+
+paginate:         1
+paginate_path:    /blog/page:num
+
+# Custom vars
+version:          0.1
