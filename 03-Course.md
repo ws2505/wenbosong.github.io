@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Course
 ---
 * Mathias Lecuyer, Riley Spahn, Roxana Geambasu, Tzu-Kuo Huang, and Siddhartha Sen.
   ''Pyramid: Enhancing Selectivity in Big Data Protection with Count Featurization.''
